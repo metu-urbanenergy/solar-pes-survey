@@ -510,7 +510,7 @@ function updateProgress() {
 // GOOGLE SHEETS INTEGRATION
 // ============================================
 
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzThkgl35hdaEZBgj9PiZJVM81H-0btYLTP0KR6GATV79LrK5B0u7BtGyermNApmRK8zA/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx1LdNNfDCWB6in5F-_IKjmrmnZDuCSvwPpUWrGfcl9G5c38bToZ98hykOg52UUT41VDQ/exec';
 
 async function submitToGoogleSheets(formData) {
     try {
