@@ -190,7 +190,7 @@ function updateArchetypeDisplay(archetype) {
 // ============================================
 
 // IMPORTANT: Replace this URL with your Google Apps Script Web App URL
-const GOOGLE_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz1_Nk6CC9qRC0V-otXuKUdghoHbZhtETdC5TJ9WXH5p9v8Gm51QMT7VCXl3leoADuptw/exec';
 
 async function submitToGoogleSheets(formData) {
     try {
