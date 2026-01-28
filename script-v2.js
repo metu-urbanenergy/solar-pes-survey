@@ -230,7 +230,7 @@ function updateArchetypeDisplay(archetype) {
 // ============================================
 
 // IMPORTANT: Your Google Apps Script URL
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzBDdHYBbxkdxgX_i-bwYMI7hUfKoqQb07p6MFFEwDGFXOxPXWzHZKNPOkUB9Dn-gVm/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxFOCVbbYfMNzGgcy5wKQuQUPPaFWSvY5EWYjJ4p8UFGFCxUmmpF0A7nJEJiWV4YpmRBQ/exec';
 
 async function submitToGoogleSheets(formData) {
     try {
