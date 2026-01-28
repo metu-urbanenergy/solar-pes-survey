@@ -568,12 +568,15 @@ textarea {
     border-radius: 10px;
     transition: var(--transition);
     border-left: 4px solid transparent;
+    position: relative;
+    margin-bottom: 0.5rem; /* Add space between items */
 }
 
 .breakdown-item:hover {
     background: #E8E8E8;
     transform: translateX(5px);
     border-left-color: var(--primary-color);
+    z-index: 10; /* Ensure hover item stays on top */
 }
 
 .breakdown-icon {
